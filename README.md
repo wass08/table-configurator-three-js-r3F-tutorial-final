@@ -6,6 +6,7 @@ This is the final project to build the Table Configurator using React Three Fibe
 
 ![Screenshot 2023-02-14 at 16 37 29](https://user-images.githubusercontent.com/6551176/218670344-0b1b20fe-bf0e-43e6-a64d-bc22395b7582.jpg)
 
+The starter pack is available [here](https://github.com/wass08/table-configurator-three-js-r3F-tutorial-starter)
 
 ## Setup & run 
 
