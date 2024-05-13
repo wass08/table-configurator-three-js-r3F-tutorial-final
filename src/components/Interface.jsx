@@ -20,6 +20,8 @@ export const Interface = () => {
         position: "absolute",
         top: 0,
         right: 0,
+        bottom: 0,
+        overflow: "auto",
       }}
       p={3}
     >
