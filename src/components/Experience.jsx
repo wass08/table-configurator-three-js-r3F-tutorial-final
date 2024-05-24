@@ -8,7 +8,7 @@ export const Experience = () => {
     <>
       <Stage
         intensity={1.5}
-        environment="city"
+        environment={null}
         shadows={{
           type: "accumulative",
           color: "#d9afd9",
